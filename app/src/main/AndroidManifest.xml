@@ -27,6 +27,14 @@
         <activity android:name=".activity.DisplayFirmeActivity" />
         <activity android:name=".activity.DisplayFermieriActivity" />
         <activity android:name=".activity.RegistrationActivity" />
+        <activity
+            android:name=".activity.Farmers"
+            android:label="@string/title_activity_farmers"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".activity.Firms"
+            android:label="@string/title_activity_firms"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
